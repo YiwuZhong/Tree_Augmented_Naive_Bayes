@@ -1,0 +1,63 @@
+lymphatics class
+block_of_affere class
+bl_of_lymph_c class
+bl_of_lymph_s class
+by_pass class
+extravasates class
+regeneration_of class
+early_uptake_in class
+lym_nodes_dimin class
+lym_nodes_enlar class
+changes_in_lym class
+defect_in_node class
+changes_in_node class
+changes_in_stru class
+special_forms class
+dislocation_of class
+exclusion_of_no class
+no_of_nodes_in class
+
+malign_lymph malign_lymph 0.999905667857
+malign_lymph malign_lymph 0.964751256497
+malign_lymph malign_lymph 0.999100212504
+metastases malign_lymph 0.975031919657
+metastases malign_lymph 0.878788030231
+malign_lymph malign_lymph 0.942924239650
+malign_lymph malign_lymph 0.880399582454
+malign_lymph malign_lymph 0.999223101607
+malign_lymph malign_lymph 0.999338883578
+malign_lymph malign_lymph 0.992470205492
+metastases malign_lymph 0.997124812086
+metastases malign_lymph 0.881504905698
+malign_lymph malign_lymph 0.988837511922
+malign_lymph malign_lymph 0.998333381376
+malign_lymph malign_lymph 0.746749246102
+malign_lymph malign_lymph 0.995910009628
+metastases malign_lymph 0.974786684767
+malign_lymph malign_lymph 0.991660055042
+metastases metastases 0.932871375848
+metastases metastases 0.996866463371
+metastases metastases 0.996639192962
+metastases metastases 0.998526446393
+metastases metastases 0.996421967070
+metastases metastases 0.970916558831
+metastases metastases 0.997532198407
+metastases metastases 0.999455903435
+metastases metastases 0.998527857880
+metastases metastases 0.868691420426
+metastases metastases 0.997421737585
+metastases metastases 0.837352162093
+metastases metastases 0.974307807396
+metastases metastases 0.972739273777
+metastases metastases 0.931952598997
+metastases metastases 0.983571078569
+metastases metastases 0.996973138312
+metastases metastases 0.997252865072
+metastases metastases 0.918603323241
+metastases metastases 0.943388925344
+metastases metastases 0.990664265403
+metastases metastases 0.960654491087
+malign_lymph metastases 0.729384886690
+metastases metastases 0.929106187565
+
+36
